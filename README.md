@@ -1,4 +1,4 @@
 # TelegramBot
-Bot Telegram usando Java SpringBoot
+Bot Telegram desenvolvido em Java SpringBoot.
 
 <img src="images/img01.png">
